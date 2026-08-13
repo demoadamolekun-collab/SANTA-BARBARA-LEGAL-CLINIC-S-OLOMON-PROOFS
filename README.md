@@ -4,7 +4,7 @@ SolomonDEX Proofs — Engineering Specs
 (ChessmanOS PCA + EdenBabel + SolomonAI \to 
 DeFi execution, integrity-first market)
 Executive summary (30s)
-ChessmanDEX converts ChessmanOS’s SelfGoverning Institution AI, PCA, and EdenBabel integrity primitives into a DeFi exchange and 
+SolomonDEX Proofs convert ChessmanOS’s SelfGoverning Institution AI, PCA, and EdenBabel integrity primitives into a DeFi exchange and 
 
 governance fabric. It issues an Integrity Token (INTG) and Milestone Tokens, uses EdenBabel as the verifiable proof oracle (Merkle + timestamp + signature), runs continuous governance via 
 OuroborOS loops, and applies Logos Protocol (GNN 
