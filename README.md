@@ -1,6 +1,6 @@
 # SANTA-BARBARA-LEGAL-CLINIC-S-OLOMON-PROOFS
 
-SolomonDEX — Grand Unified Specification
+SolomonDEX — Engineering Specs
 (ChessmanOS PCA + EdenBabel + SolomonAI \to 
 DeFi execution, integrity-first market)
 Executive summary (30s)
