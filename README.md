@@ -220,20 +220,3 @@ OpsAgent
 *	Spec:
 *	Terraform for single-tenant infra (S3 buckets for EdenBabel artifacts, KMS keys, ephemeral IAM roles).
 *	Ops runbook for root rotation and PKI (4-eyes signers).
-*	Deliverable: terraform plan + security checklist.
-Deliverables produced in this response  * Full integrated Grand Unified Spec (this document).
-*	Execution pseudocode and smart-contract skeletons.
-*	Tokenomics example and mechanism-design rationale.
-*	Agent spec snippets and practical CTO / FPM / ML task lists.
-*	Deployment roadmap and KPI targets.
-*	Appendix sketches for formal proofs.
-Source documents (traceability)
-I integrated your uploaded files. Use these local paths for reproduction / audit / dataset replay:
-*	ChessmanOS CoPilot.docx
-*	SBLC ChessmanOS .docx
-*	PCA ChessmanOS SELFDRIVING Psyche  26.docx   (These were the source inputs used to derive behavioral mappings, archetype overlays, and pilot scenarios.)
-Immediate next work I can generate now (choose any or multiple — I will produce immediately)  * Full LaTeX academic appendix: expand Appendices A–C into full formal proofs (Econometrica-ready).
-*	Investor-grade whitepaper + 12-slide deck: polished, slide-ready markdown + speaker notes.  * Solidity smart contract prototypes: CFMM + LOB + IntegrityVerifier + unit tests (Hardhat).
-*	Simulation harness: agent-based simulation (Python) to stress test vs Hyperliquid-style adversaries.
-*	Live telemetry dashboard prototype: React + D3 wireframe (mock data).
-*	Full data & model pipeline: DataAgent implementation (training code + lineage writes to EdenBabel).
